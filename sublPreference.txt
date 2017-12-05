@@ -1,0 +1,7 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 10,
+	"theme": "Adaptive.sublime-theme",
+	"hot_exit": false,
+	"remember_open_files": false
+}
