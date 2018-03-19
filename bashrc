@@ -132,7 +132,7 @@ alias clean='make clean'
 
 # for sublime
 #alias subl='/mnt/c/Program Files/Sublime Text 3/subl.exe $1'
-alias subl="/mnt/c/Program\ Files/Sublime\ Text\ 3/sublime_text.exe $1"
+alias subl="/mnt/d/Sublime\ Text\ 3/sublime_text.exe $1"
 
 #alias brac="/mnt/c/Program\ Files\ \(x86\)\/Brackets/command/brackets"
 #Program\ Files\ \(x86\)\/Brackets/command/brackets $1"
@@ -141,8 +141,11 @@ alias subl="/mnt/c/Program\ Files/Sublime\ Text\ 3/sublime_text.exe $1"
 #!/bin/sh
 #"/mnt/c/Program Files/Sublime Text 3/sublime_text.exe/" $1
 
-alias cdd='cd /mnt/c/Users/Kaung/Desktop/Projects/'
-
+alias cdd='cd /mnt/d/'
+alias open='explorer.exe'
+alias nodex='nodemon'
+alias st='git status'
+alias add='git add .'
 
 
 
